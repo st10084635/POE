@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\BudgetPlannerPOE\BudgetPlannerPOE\bin\Debug\BudgetPlannerPOE.exe.config
+C:\Users\user\source\repos\BudgetPlannerPOE\BudgetPlannerPOE\bin\Debug\BudgetPlannerPOE.exe
+C:\Users\user\source\repos\BudgetPlannerPOE\BudgetPlannerPOE\bin\Debug\BudgetPlannerPOE.pdb
+C:\Users\user\source\repos\BudgetPlannerPOE\BudgetPlannerPOE\obj\Debug\BudgetPlannerPOE.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BudgetPlannerPOE\BudgetPlannerPOE\obj\Debug\BudgetPlannerPOE.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BudgetPlannerPOE\BudgetPlannerPOE\obj\Debug\BudgetPlannerPOE.exe
+C:\Users\user\source\repos\BudgetPlannerPOE\BudgetPlannerPOE\obj\Debug\BudgetPlannerPOE.pdb
+C:\Users\user\source\repos\POEpart2\BudgetPlannerPOE\bin\Debug\BudgetPlannerPOE.exe.config
+C:\Users\user\source\repos\POEpart2\BudgetPlannerPOE\bin\Debug\BudgetPlannerPOE.exe
+C:\Users\user\source\repos\POEpart2\BudgetPlannerPOE\bin\Debug\BudgetPlannerPOE.pdb
+C:\Users\user\source\repos\POEpart2\BudgetPlannerPOE\obj\Debug\BudgetPlannerPOE.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\POEpart2\BudgetPlannerPOE\obj\Debug\BudgetPlannerPOE.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\POEpart2\BudgetPlannerPOE\obj\Debug\BudgetPlannerPOE.exe
+C:\Users\user\source\repos\POEpart2\BudgetPlannerPOE\obj\Debug\BudgetPlannerPOE.pdb
